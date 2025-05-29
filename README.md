@@ -1,12 +1,12 @@
 # interweb utils
 
 <p align="center">
-  <img src="https://github.com/cosmology-tech/interweb-utils/assets/545047/89c743c4-be88-409f-9a77-4b02cd7fe9a4" width="80">
+  <img src="https://github.com/hyperweb-io/interweb-utils/assets/545047/89c743c4-be88-409f-9a77-4b02cd7fe9a4" width="80">
   <br />
     Open-source utilities for the Interweb
   <br />
-    <a href="https://github.com/cosmology-tech/interweb-utils/actions/workflows/run-tests.yml">
-    <img height="20" src="https://github.com/cosmology-tech/interweb-utils/actions/workflows/run-tests.yml/badge.svg" />
+    <a href="https://github.com/hyperweb-io/interweb-utils/actions/workflows/run-tests.yml">
+    <img height="20" src="https://github.com/hyperweb-io/interweb-utils/actions/workflows/run-tests.yml/badge.svg" />
     </a>
    <img height="20" src="https://img.shields.io/badge/license-MIT-blue.svg">
 </p>
@@ -15,9 +15,9 @@
 
 This workspace includes the following packages:
 
-- [find-pkg](https://github.com/cosmology-tech/interweb-utils/tree/main/packages/find-pkg)
-- [casing](https://github.com/cosmology-tech/interweb-utils/tree/main/packages/casing)
-- [eslint](https://github.com/cosmology-tech/interweb-utils/tree/main/packages/eslint)
+- [find-pkg](https://github.com/hyperweb-io/interweb-utils/tree/main/packages/find-pkg)
+- [casing](https://github.com/hyperweb-io/interweb-utils/tree/main/packages/casing)
+- [eslint](https://github.com/hyperweb-io/interweb-utils/tree/main/packages/eslint)
 
 ## Developing
 
@@ -32,13 +32,13 @@ yarn build
 
 Checkout these related projects:
 
-* [@cosmology/telescope](https://github.com/cosmology-tech/telescope) Your Frontend Companion for Building with TypeScript with Cosmos SDK Modules.
+* [@cosmology/telescope](https://github.com/hyperweb-io/telescope) Your Frontend Companion for Building with TypeScript with Cosmos SDK Modules.
 * [@cosmwasm/ts-codegen](https://github.com/CosmWasm/ts-codegen) Convert your CosmWasm smart contracts into dev-friendly TypeScript classes.
-* [chain-registry](https://github.com/cosmology-tech/chain-registry) Everything from token symbols, logos, and IBC denominations for all assets you want to support in your application.
-* [cosmos-kit](https://github.com/cosmology-tech/cosmos-kit) Experience the convenience of connecting with a variety of web3 wallets through a single, streamlined interface.
-* [create-cosmos-app](https://github.com/cosmology-tech/create-cosmos-app) Set up a modern Cosmos app by running one command.
-* [interchain-ui](https://github.com/cosmology-tech/interchain-ui) The Interchain Design System, empowering developers with a flexible, easy-to-use UI kit.
-* [starship](https://github.com/cosmology-tech/starship) Unified Testing and Development for the Interchain.
+* [chain-registry](https://github.com/hyperweb-io/chain-registry) Everything from token symbols, logos, and IBC denominations for all assets you want to support in your application.
+* [cosmos-kit](https://github.com/hyperweb-io/cosmos-kit) Experience the convenience of connecting with a variety of web3 wallets through a single, streamlined interface.
+* [create-cosmos-app](https://github.com/hyperweb-io/create-cosmos-app) Set up a modern Cosmos app by running one command.
+* [interchain-ui](https://github.com/hyperweb-io/interchain-ui) The Interchain Design System, empowering developers with a flexible, easy-to-use UI kit.
+* [starship](https://github.com/hyperweb-io/starship) Unified Testing and Development for the Interchain.
 
 ## Credits
 
